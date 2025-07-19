@@ -1,6 +1,10 @@
 Language Models
 ===============
 
+This project is originally based on the repository jncraton/languagemodels. I just added a Streamlit app on top of it to make it more usable and tailored to my needs in the streamlitapp branch !!
+
+--
+
 [![PyPI version](https://badge.fury.io/py/languagemodels.svg)](https://badge.fury.io/py/languagemodels)
 [![docs](https://img.shields.io/badge/docs-online-brightgreen)](https://languagemodels.netlify.app/)
 [![x64 Build](https://github.com/jncraton/languagemodels/actions/workflows/build.yml/badge.svg)](https://github.com/jncraton/languagemodels/actions/workflows/build.yml)
